@@ -1,0 +1,1 @@
+this project is for sample on a blog app. it has only one admin who creates the blog. people reading the blog can comment by writing content for the text field and by giving name. no login required. login is for admin only.
